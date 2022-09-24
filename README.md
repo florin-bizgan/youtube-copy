@@ -1,7 +1,5 @@
 # Pug starter
 
-## Table of contents
-
 
 ## Project file structure
 
